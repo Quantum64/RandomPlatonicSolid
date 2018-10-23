@@ -2,6 +2,7 @@
   "name": "platonic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://quantum64.github.io/RandomPlatonicSolid/",
   "dependencies": {
     "@material-ui/core": "^3.3.0",
     "react": "^16.5.2",
